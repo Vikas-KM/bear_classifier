@@ -2,7 +2,7 @@
 
 *Bear classifier demo app using fast.ai and voila*
 
-[Demo Link](https://hub.gke2.mybinder.org/user/vikas-km-bear_classifier-81edp5h3/voila/render/bear_classifier.ipynb?token=FNdiT7FzS3mCIjANlO3kGA)
+[Demo Link](https://hub.gke2.mybinder.org/user/vikas-km-bear_classifier-76x4rnnb/voila/render/bear_classifier.ipynb?token=mM7pUzrjTFuTte2G9AL6xQ)
 
 This is a POC of bear classifier done using CNN Algorithm on 100 images scrapped from DuckDuckGo search engine.
 
